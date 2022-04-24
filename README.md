@@ -11,8 +11,8 @@ Group Members:
 
 Purpose: 
 <ul>
-  <li>create visualisation about Superstore retail space</li>
-  <li>give business insights and recommendations to improve the business</li>
+  <li>Create visualisation about Superstore retail space</li>
+  <li>Give business insights & recommendations</li>
 </ul>
 </br>
 
