@@ -2,11 +2,11 @@
 Nanyang Polytechnic Y1 Data Analysis & Visualisation Group Project [4 members]
 
 Purpose: 
-
-create visualisation about Superstore retail space
-
-give business insights and recommendations to improve the business
-
+<ul>
+  <li>create visualisation about Superstore retail space</li>
+  <li>give business insights and recommendations to improve the business</li>
+</ul>
+</br>
 Group Members:
 <ol>
   <li>Wei Ren</li>
