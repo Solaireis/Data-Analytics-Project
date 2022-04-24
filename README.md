@@ -1,11 +1,5 @@
-# DAV
-Nanyang Polytechnic Y1 Data Analysis & Visualisation Group Project [4 members]
-
-Purpose: 
-<ul>
-  <li>create visualisation about Superstore retail space</li>
-  <li>give business insights and recommendations to improve the business</li>
-</ul>
+# Data Analysis and Visualisation Project
+Nanyang Polytechnic Y1 Group Project [4 members]
 </br>
 Group Members:
 <ol>
@@ -14,3 +8,11 @@ Group Members:
   <li>Jason</li>
   <li>Calvin</li>
 </ol>
+
+Purpose: 
+<ul>
+  <li>create visualisation about Superstore retail space</li>
+  <li>give business insights and recommendations to improve the business</li>
+</ul>
+</br>
+
