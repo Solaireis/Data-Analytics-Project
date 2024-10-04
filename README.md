@@ -16,5 +16,9 @@ Purpose:
   <li>Create visualisation about Superstore retail space</li>
   <li>Give business insights & recommendations</li>
 </ul>
+Repository contains:
+<ul>
+  <li> Files that contains the dashboard for the tableau project </li>
+</ul>
 </br>
 
