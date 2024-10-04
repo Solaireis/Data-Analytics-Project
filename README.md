@@ -1,4 +1,6 @@
 # Data Analysis and Visualisation Project
+Software used: Tableau Visualisation
+
 Nanyang Polytechnic Y1 Group Project [4 members]
 </br>
 Group Members:
